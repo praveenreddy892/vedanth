@@ -1,2 +1,1 @@
-# vedant
-# Praveen
+# vedanth
